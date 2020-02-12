@@ -1,4 +1,3 @@
-# Standard-Bank-Tech-Impact-Challenge-Xente-credit-scoring-challenge
-The objective of this challenge was to create a machine learning model to predict which individuals are most likely to default on their loans, based on their loan repayment behaviour and ecommerce transaction activity.
-
-The resulting models and solutions will help Xente refine their credit decision processes, and enable them to more adequately assess the creditworthiness of new and existing clients. For Xente, this may result in improved profitability and financial sustainability; while for Xente’s cliente, increased creditworthiness would enhance their access to credit and contribute to an improved livelihood.
+# Standard-Bank-Tech-Impact-Challenge
+This solution rank 3rd place in predicting the likelihood of credit default of ecommerce clients
+this solution has been splitted into three parts: EDA, FEATURE ENGINEERING, MODELLING
